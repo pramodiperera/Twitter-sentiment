@@ -1,2 +1,2 @@
 # Twitter-sentiment
-Twitter sentiment analysis
+Twitter sentiment analysis - NLP
