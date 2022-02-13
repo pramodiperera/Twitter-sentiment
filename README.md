@@ -1,2 +1,2 @@
 # Twitter-sentiment
-Twitter sentiment analysis - NLP
+Twitter sentiment analysis using machine learning
